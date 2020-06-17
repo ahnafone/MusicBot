@@ -46,6 +46,7 @@ Thumbs.db
 *.der
 *.key
 *.pem
+*.env
 
 # -------------------------
 # BEGIN Whitelisted Files
