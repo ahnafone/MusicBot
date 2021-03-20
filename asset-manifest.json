@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MusicBot/static/css/main.69eda509.chunk.css",
+    "main.js": "/MusicBot/static/js/main.74f1af0b.chunk.js",
+    "main.js.map": "/MusicBot/static/js/main.74f1af0b.chunk.js.map",
+    "runtime-main.js": "/MusicBot/static/js/runtime-main.e306d305.js",
+    "runtime-main.js.map": "/MusicBot/static/js/runtime-main.e306d305.js.map",
+    "static/js/2.6f45710b.chunk.js": "/MusicBot/static/js/2.6f45710b.chunk.js",
+    "static/js/2.6f45710b.chunk.js.map": "/MusicBot/static/js/2.6f45710b.chunk.js.map",
+    "index.html": "/MusicBot/index.html",
+    "precache-manifest.b75a5988b19b37089aaedd7b1df6b04e.js": "/MusicBot/precache-manifest.b75a5988b19b37089aaedd7b1df6b04e.js",
+    "service-worker.js": "/MusicBot/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/MusicBot/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.6f45710b.chunk.js.LICENSE.txt": "/MusicBot/static/js/2.6f45710b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e306d305.js",
+    "static/js/2.6f45710b.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.74f1af0b.chunk.js"
+  ]
+}
