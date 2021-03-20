@@ -29,11 +29,15 @@ if(s) {
 
   return (
     <div>
+      <img src="images/logo.png" className="logo" />
       <h1 className="title">MusicBot</h1>
       <h3 className="tagline">A music bot thats fun at parties</h3>
       <Player title={current.title} artist={current.artist}/>
       <Queue songs={s}/>
 
+      <div class="fab">
+        <span class="fab-label"> Add Song </span>
+      </div>
     </div>
   );
 }
