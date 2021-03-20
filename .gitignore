@@ -42,10 +42,14 @@ Thumbs.db
 *.tar
 *.zip
 
+# ignore production files
+client/build/
+
 # ignore private/secret files
 *.der
 *.key
 *.pem
+*.env
 
 # -------------------------
 # BEGIN Whitelisted Files
