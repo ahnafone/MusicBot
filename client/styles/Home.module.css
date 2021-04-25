@@ -1,0 +1,82 @@
+.outer {
+  width: 100vw; height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  color: white;
+  background-color: var(--background);
+}
+.outer main {
+  min-width: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoBox {
+  position: absolute;
+  top: 0%; left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.logo {
+  width: 4rem;
+  border-radius: 50%;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+.title {
+  margin: 0;
+}
+.tagline {
+  margin: 0.3rem 0 1.5rem 0;
+  font-family: 'Merriweather', serif;
+}
+
+
+.buttonCol {
+  min-width: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 5rem;
+}
+
+.buttonBox {
+  margin: 2rem 0;
+  display: flex;
+  flex-direction: column;
+}
+.buttonBox button {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 5px 20px;
+}
+.buttonBox input[type=text] {
+  font-size: 1.45rem;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 8px;
+}
+
+.orSpace {
+  font-size: 0.8rem;
+  margin: 3rem 0;
+  display: inline-flex;
+  align-items: center;
+}
+.orSpace hr {
+  margin: 10px;
+  width: 2rem;
+}
+
+.show {
+  opacity: 1;
+  transition: opacity 300ms;
+}

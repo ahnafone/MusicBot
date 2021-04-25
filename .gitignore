@@ -42,8 +42,12 @@ Thumbs.db
 *.tar
 *.zip
 
+# ignore old layout
+client_old/
+
 # ignore production files
 client/build/
+.next
 
 # ignore private/secret files
 *.der
